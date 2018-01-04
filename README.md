@@ -1,2 +1,2 @@
-# DisplayOptions
-Allows you to extend your display and change themes at the click of a button. Meant for Windows 7.
+# Block-All
+A batch file that blocks all programs in the folder it is placed in as well as it's sub folders.
